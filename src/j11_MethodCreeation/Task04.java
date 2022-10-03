@@ -38,6 +38,7 @@ public class Task04 {/*
                 break;
             default:
                 System.out.println("agam daha seçim yapamirsen bide para istirsen...");
+                secim();
         }
 
     }
