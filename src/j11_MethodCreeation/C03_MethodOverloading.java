@@ -5,7 +5,7 @@ import static j11_MethodCreeation.C01_MethodCreation.topla;
 public class C03_MethodOverloading {/*
 
     Java'da  methodlarin farkli olup olmadiklarini  icin
-         a)Method ismine  b)parametreler kontrol edilir..
+         a)Method ismine  B)parametreler kontrol edilir..
 
 
     Java da ayni isimle birden fazla method olusturulmasına overloading denir.

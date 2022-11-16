@@ -15,7 +15,7 @@ public class C02_TypeCasting {
         //String basarı=basarılı; -> dogal uyum olmayan variable'larda castşng yapılamaz CTE
         // System.out.println("basarılı = " + basarılı);-> true
         // System.out.println("basarı = " + basarı);->true
-        double d = 17;// double variable'a int 17 atandı k->b
+        double d = 17;// double variable'a int 17 atandı k->B
         System.out.println("d = " + d);//d = 17.0 auto widding
         int sayi1 = 33;
         int sayi2 = 7;
@@ -26,13 +26,13 @@ public class C02_TypeCasting {
          eğer bölme işleminde ondalık sonuç çıkarsa ondalık kısmı siler
          */
         byte b = 127;
-        int i = b;//k->b aw
+        int i = b;//k->B aw
         System.out.println("i = " + i);//127
 
         int num = 1453;
-        double d1 = 17; //num;//k->b aw
+        double d1 = 17; //num;//k->B aw
         System.out.println("d1 = " + d1);//1453.0
-        // double->b     int->k
+        // double->B     int->k
         double db = d1 / num;//TRICK-> iki farklı data type sayi işleme girerse java
         // kucuk olan data type turu için aw yapar sonucu buyuk olan data type  olarak verir
 
@@ -45,7 +45,7 @@ public class C02_TypeCasting {
 
 		 */
         double d2 = 14.53;
-        int num2 = (int) d2;//b->k
+        int num2 = (int) d2;//B->k
         System.out.println("num2 = " + num2);//14
 
         int num3 = 150;

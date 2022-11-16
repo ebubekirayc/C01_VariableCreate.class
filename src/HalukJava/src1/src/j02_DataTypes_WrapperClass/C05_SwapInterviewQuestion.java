@@ -7,7 +7,7 @@ public class C05_SwapInterviewQuestion {
         Verilen sayi1 ve sayi2 variable’larinin degerlerini degistiren (SWAP)
         code create edip print ediniz.
         a) 3. bir variable kulanarak
-        b) 3. bir variable kullanmadan
+        B) 3. bir variable kullanmadan
 
 	     input	: sayi1=20 ve sayi2=34;
 		 output  :  sayi1=34 ve sayi2=20
@@ -32,8 +32,8 @@ public class C05_SwapInterviewQuestion {
 
         System.out.println("Swap'dan sonra sayi1 -> " + sayi1 + " , "+ "sayi2 -> "+ sayi2);
 
-        // b)
-        System.out.println("*** b çözümü ***");
+        // B)
+        System.out.println("*** B çözümü ***");
         System.out.println("Swaptan önce sayı1 -> " + sayi1 + " , " + "sayi2 -> " + sayi2);
 
         sayi1= sayi1+sayi2;//sayı1=54

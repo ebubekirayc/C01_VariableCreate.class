@@ -18,10 +18,10 @@ public class C01_Comparsion {
         int slmYs=33;
         int krmYs=41;
 
-        System.out.println("krm b esit mi slm b -> "+(krmYs==slmYs));//false
-        System.out.println("krm b esit değil  mi slm b -> "+(krmYs!=slmYs));//true
-        System.out.println("krm b kucuk mu  slm b -> "+(krmYs<slmYs));//false
-        System.out.println("krm b buyuk mu   slm b -> "+(krmYs>slmYs));//true
+        System.out.println("krm B esit mi slm B -> "+(krmYs==slmYs));//false
+        System.out.println("krm B esit değil  mi slm B -> "+(krmYs!=slmYs));//true
+        System.out.println("krm B kucuk mu  slm B -> "+(krmYs<slmYs));//false
+        System.out.println("krm B buyuk mu   slm B -> "+(krmYs>slmYs));//true
         /*s1 ve s2 String constant pool içerisinde aynı referans değere (reference)
         sahiptir.
          s1 == s2 , s1 ve s2 'nin hafızadaki adres değerlerini karşılaştırır ve

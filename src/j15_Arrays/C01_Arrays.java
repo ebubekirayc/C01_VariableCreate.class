@@ -91,17 +91,17 @@ import java.util.Arrays;
             System.out.println(koltukSayısı);//2
             System.out.println(Arrays.toString(yeniArr));//
 
-            //Array elemanları naturel(k->b:ascending b->k:descending, alfabetik) sıralama için sort(); method kulanılır
+            //Array elemanları naturel(k->B:ascending B->k:descending, alfabetik) sıralama için sort(); method kulanılır
             System.out.println(Arrays.toString(isimArr));//sıarlama öncesi-> [muharrem, enise, cebrail, nazım, QA Özge hanım]
             Arrays.sort(isimArr);//isimArr elemanları naturel sıralama yapıldı
             System.out.println(Arrays.toString(isimArr));//sıralama sonrası -> [QA Özge hanım, cebrail, enise, muharrem, nazım]
-//Array elemanları naturel(k->b:ascending b->k:descending, alfabetik) sıralama için sort(); method kulanılır
+//Array elemanları naturel(k->B:ascending B->k:descending, alfabetik) sıralama için sort(); method kulanılır
             System.out.println(Arrays.toString(isimArr));//sıarlama öncesi-> [muharrem, enise, cebrail, nazım, QA Özge hanım]
             Arrays.sort(isimArr);//isimArr elemanları naturel sıralama yapıldı
             System.out.println(Arrays.toString(isimArr));//sıralama sonrası -> [QA Özge hanım, cebrail, enise, muharrem, nazım]
 
             System.out.println(Arrays.toString(sayıArr));//sıralama öncesi sayıArr->[34, 43, 34, 99, 0]
-            Arrays.sort(sayıArr);// sayıArr k-> b sıralandı
+            Arrays.sort(sayıArr);// sayıArr k-> B sıralandı
             System.out.println(Arrays.toString(sayıArr));//sıralama sonrası sayıArr-> [0, 34, 34, 43, 99]
 
         }

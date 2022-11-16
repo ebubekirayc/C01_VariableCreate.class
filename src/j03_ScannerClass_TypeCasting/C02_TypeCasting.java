@@ -16,7 +16,7 @@ Java  otomatik olarak yapar.
         //System.out.println("başarılı = " + başarılı);--> true
         //System.out.println("başarı = " + başarı);--> true
 
-        double d=17;//double variabl a int 17 atandı k->b
+        double d=17;//double variabl a int 17 atandı k->B
         System.out.println("d = " + d);// d= 17.0 auto wedding
 
         int sayi1=33;
@@ -33,7 +33,7 @@ int i=b;//k->
         int num=1453;
         double d1 = 17;//num;//k-> aw
         System.out.println("d1 = " + d1);//1453.0
-           //double->b     int->k
+           //double->B     int->k
         double db= d1 / num;//TRICK-> iki farklı data type sayi işleme girerse java
         // kuçuk olan data type turu için aw yapar sonucu buyuk olan data type olarak verir
         System.out.println("db = " + db);//0.01169993117687543
@@ -46,7 +46,7 @@ int i=b;//k->
 
  */
         double d2=14.53;
-        int num2= (int) d2;// b->k
+        int num2= (int) d2;// B->k
         System.out.println("num2 = " + num2);//14
         int num3=150;
         byte b1= (byte) num3;

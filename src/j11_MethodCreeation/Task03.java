@@ -40,20 +40,20 @@ import java.util.Scanner;
     }
 
 
-    private static void topla(int a, int b) {
-        System.out.println("a+b= " + (a + b));
+    private static void topla(int a, int B) {
+        System.out.println("a+B= " + (a + B));
     }
 
-    private static void cıkar(int a, int b) {
-        System.out.println("a-b= " + (a - b));
+    private static void cıkar(int a, int B) {
+        System.out.println("a-B= " + (a - B));
     }
 
-    private static void carp(int a, int b) {
-        System.out.println("a*b= " + (a * b));
+    private static void carp(int a, int B) {
+        System.out.println("a*B= " + (a * B));
     }
 
-    private static void böl(int a, int b) {
-        System.out.println("a/b= " + (a / b));
+    private static void böl(int a, int B) {
+        System.out.println("a/B= " + (a / B));
     }
 
 

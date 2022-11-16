@@ -10,8 +10,8 @@ public class C03_CharAt {
          */
 String sehir="istanbul";
 char besinciİndexKrktr=sehir.charAt(5);
-        System.out.println("sehir.charAt(5) = " + sehir.charAt(5));//b
-        System.out.println(besinciİndexKrktr);//b
+        System.out.println("sehir.charAt(5) = " + sehir.charAt(5));//B
+        System.out.println(besinciİndexKrktr);//B
 
 
         //SON index karakteri--> lenght()-1

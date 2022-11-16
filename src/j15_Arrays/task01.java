@@ -17,7 +17,7 @@ public class task01 {
         arr[i]= sc.nextInt();
         }
         System.out.println("agam istediğin array : "+Arrays.toString(arr));
-        Arrays.sort(arr);//arr k->b sortingen:) yapıldı
+        Arrays.sort(arr);//arr k->B sortingen:) yapıldı
         for (int i = arr.length-1/*en buyuk sondaki elemandan döngü başlar*/ ;i>=0; i--) {
             System.out.print(arr[i] + " ");
         }

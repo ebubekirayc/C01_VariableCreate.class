@@ -4,7 +4,7 @@ public class Task01 {
 	/* java escape special characters -> https://www.w3schools.com/java/java_strings_specchars.asp
 
 	  \n (or \r): starts from a new line : metni bir alt satırdan itibaren yazdırır.
-	          \t:  horizontal tab : metni yatayda 1 tab miktarı kaydırır.
+	          \Q02_MergeCertainCharacters:  horizontal tab : metni yatayda 1 tab miktarı kaydırır.
 	          \\: prints a back slash :\ (ters slash) yazdırır
 	          \': prints single quote :' tek tırnak yazdırır.
 	          \": prints double quote :"" Çift tırnak yazdırır.
@@ -17,7 +17,7 @@ public class Task01 {
         System.out.println("   \"Hello \" , \"World \\ / \"    ");
         // Soru-2 : Pazartesi kelimesini her harfini ayrı bir satira gelecek sekilde yazdırınız.
 
-        System.out.println("P\na\nz\na\nr\nt\ne\ns\ni");
+        System.out.println("P\na\nz\na\nr\nQ02_MergeCertainCharacters\ne\ns\ni");
         //Soru-3 : "Java" ile hayat cok 'afilli'   yazdırınız
 
         System.out.println("\"Java\" ile hayat cok \'afilli\'");

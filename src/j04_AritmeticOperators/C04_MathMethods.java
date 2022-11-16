@@ -9,10 +9,10 @@ public class C04_MathMethods {
      Math.abs(a)
      Girilen degerin mutlak degerini verir.
 
-   Math.max(a, b)
+   Math.max(a, B)
    Girilen iki degerden buyuk olani verir.
 
-   Math.min(a, b)
+   Math.min(a, B)
    Girilen iki degerden kucuk olani verir.
 
    Math.round(a)
@@ -21,8 +21,8 @@ public class C04_MathMethods {
    Math.sqrt(a)
    Girilen degerin karekokunu verir.
 
-   Math.pow(a, b)
-   Girilen a ve b degerini a uzeri b olarak verir.
+   Math.pow(a, B)
+   Girilen a ve B degerini a uzeri B olarak verir.
 
    Math.ceil(a) 3.1 => 4
    Girilen bir ondalikli sayiyi bir sonraki en yakin tam sayiya yukseltir.

@@ -15,12 +15,7 @@ public class C01_AtamaOperatoru {
         System.out.println(yas + 5);//38 ->atama = olmadığı için yaş=33 hala
         System.out.println("yas = " + yas);//33
 
-        System.out.println(yas +=11);//44->atama yapıldığı için yas=44
-
-
-
-
-
+        System.out.println(yas +=11);//44->atama yapıl
     }
 
 

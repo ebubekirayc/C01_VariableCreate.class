@@ -102,17 +102,17 @@ public class C01_MethodCreation {
 ​
     }//main method kapanış
 ​
-    public static int topla4(int b, int a) {//int ve int parametreli inr return eden method
+    public static int topla4(int B, int a) {//int ve int parametreli inr return eden method
 
-        return 2*(a+b);
+        return 2*(a+B);
     }
 ​
     public static int topla3() {//parametresiz int return type method
 ​
         int a = 72;
-        int b = 63;
+        int B = 63;
 ​
-        return (a + b);
+        return (a + B);
     }
 ​
         // bir method Class'in icinde ama  main method'un disinda  cereate edilir
@@ -120,14 +120,14 @@ public class C01_MethodCreation {
         ​
     public static void topla() {//parametresiz return type ılmayan void bir method
         int a = 33;
-        int b = 23;
-        System.out.println(a + b);
+        int B = 23;
+        System.out.println(a + B);
         System.out.println("topla methodundan selamlar  :) ");
     }
 ​
-    public static void topla2(int a, int b) {//parametreli(2 int) void method
+    public static void topla2(int a, int B) {//parametreli(2 int) void method
         System.out.println("bu method parametreli");
-        System.out.println(a + b);
+        System.out.println(a + B);
         System.out.println("topla2  çalıştı");
     }
 ​

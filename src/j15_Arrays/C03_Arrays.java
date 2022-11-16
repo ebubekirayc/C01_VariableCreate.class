@@ -1,3 +1,5 @@
+package j15_Arrays;
+
 import java.util.Arrays;
 
 public class C03_Arrays {

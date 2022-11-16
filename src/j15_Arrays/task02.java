@@ -18,12 +18,15 @@ public class task02 {
         }
         System.out.println("agam istediğin array : "+ Arrays.toString(arr));
         int arrToplam=0;//local variable
-        for (int i = 0; i < arr.length; i++) {
-            arrToplam+=arr[i];
-            System.out.println("array eleman toplamları : " + arrToplam);
+      //  for (int i = 0; i < arr.length; i++) {
+        //    arrToplam+=arr[i];
+          //  System.out.println("array eleman toplamları : " + arrToplam);
 
-        }
-
+        //}
+for (int w : arr){
+    arrToplam+=w;
+    System.out.println("arrToplam = " + arrToplam);
+}
 
 
 
